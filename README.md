@@ -1,2 +1,2 @@
 # Abapgit
-Codando em ABAP no SAP Netweaver (MiniSAP).
+applying and learning ABAP in SAP Netweaver
